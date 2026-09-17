@@ -8,6 +8,7 @@ authors:
 version: "1.0.0"
 date-released: 2026-09-17
 license: CC-BY-4.0
+doi: "10.5281/zenodo.22810251"
 preferred-citation:
   type: article
   title: "The return of the marshes: spatial modelling of settlement dynamics and hydraulic equilibria in the Lucca plain (Italy, 1st-6th centuries AD)"
