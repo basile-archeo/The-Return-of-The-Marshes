@@ -1,0 +1,21 @@
+
+message: "If you use these materials, please cite the article and this repository."
+title: "Reproducibility materials for 'The return of the marshes: spatial modelling of settlement dynamics and hydraulic equilibria in the Lucca plain (1st–6th c. AD)'"
+author: Basile, Salvatore
+  
+    affiliation: "University of Pisa, MAPPA Laboratory, Dipartimento di Civiltà e Forme del Sapere"
+    # orcid: "https://orcid.org/0000-0001-7789-8953"   
+
+date-released: 2026-09-16
+license: CC BY 4.0
+
+
+preferred-citation:
+  type: dataset
+  title: "The return of the marshes: spatial modelling of settlement dynamics and hydraulic equilibria in the Lucca plain (Italy, 1st–6th centuries AD)"
+  author: Basile Salvatore
+  journal: "Journal of Mediterranean Archaeology"
+  volume: 39
+  issue: 2
+  year: 2026
+
